@@ -1,6 +1,6 @@
 # Unearthing the Environmental Impact of Human Activity: A Global CO2 Emission Analysis
 
-The link can be accessed at: 
+The link can be accessed at: https://pradeepkumar127.github.io/Global-Co2-Emissions-Analysis-/
 
 Description:
 
